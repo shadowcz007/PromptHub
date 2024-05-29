@@ -25,9 +25,10 @@ waterfall:
     image: images/Whispers of Saints.png
     details: man with short hair and beard, wearing a dark coat, standing against a wall with intricate tapestry, dimly lit room, detailed textures of tapestry, narrative text overlay
     posts: knowledge\Whispers of Saints\index
-  - title: Cross-Cultural Exchange
-    image: ./images/ComfyUI_temp_aglrt_00001_.png
-    details: Facilitate global designer interaction, enhancing design diversity and inclusivity.
+  - title: 荒野的静谧与危险
+    image: images/荒野的静谧与危险.png
+    details: Deer drinking from a lake, surrounded by forest, misty atmosphere, early morning light, serene and tranquil setting
+    posts: knowledge\荒野的静谧与危险\index
   - title: Integration of Technology and Design
     image: ./images/image1.png
     details: Utilize the latest technology to enhance design efficacy.
