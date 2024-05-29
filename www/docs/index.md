@@ -1,0 +1,101 @@
+---
+home: false
+layout: PortfolioLayout
+title: Home
+heroImage: '/logo.png'
+heroHeight: 88
+
+actions:
+  - text: 加入国际社区
+    link: https://discord.gg/cXs9vZSqeK
+    type: primary
+
+  - text: Mixlab微信社群申请
+    link: http://mixlab-co.mikecrm.com/wgn0LPw
+    type: secondary
+
+share: true
+
+waterfall:
+  - title: 古堡情怀
+    image: images/古堡情怀.png
+    details: ancient castle with a tower, surrounded by green fields and trees, under a dramatic cloudy sky, narrative text overlay
+    posts: knowledge\古堡情怀\index
+  - title: Whispers of Saints
+    image: images/Whispers of Saints.png
+    details: man with short hair and beard, wearing a dark coat, standing against a wall with intricate tapestry, dimly lit room, detailed textures of tapestry, narrative text overlay
+    posts: knowledge\Whispers of Saints\index
+  - title: Cross-Cultural Exchange
+    image: ./images/ComfyUI_temp_aglrt_00001_.png
+    details: Facilitate global designer interaction, enhancing design diversity and inclusivity.
+  - title: Integration of Technology and Design
+    image: ./images/image1.png
+    details: Utilize the latest technology to enhance design efficacy.
+  - title: Building an Open-Source Ecosystem
+    image: ./images/image18.png
+    details: Promote sharing, collaboration, and self-improvement for continuous industry growth.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+
+  - title: Transparency in Design
+    image: ./images/00052-3429002811.jpeg
+    details: Enhance transparency in design, allowing community-wide understanding and participation.
+  - title: Collaborative Innovation
+    image: ./images/20240514134229.png
+    details: Encourage knowledge sharing for collective design innovation.
+  - title: Cross-Cultural Exchange
+    image: ./images/ComfyUI_temp_aglrt_00001_.png
+    details: Facilitate global designer interaction, enhancing design diversity and inclusivity.
+  - title: Integration of Technology and Design
+    image: ./images/image1.png
+    details: Utilize the latest technology to enhance design efficacy.
+  - title: Building an Open-Source Ecosystem
+    image: ./images/image18.png
+    details: Promote sharing, collaboration, and self-improvement for continuous industry growth.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+
+  - title: Transparency in Design
+    image: ./images/00052-3429002811.jpeg
+    details: Enhance transparency in design, allowing community-wide understanding and participation.
+  - title: Collaborative Innovation
+    image: ./images/20240514134229.png
+    details: Encourage knowledge sharing for collective design innovation.
+  - title: Cross-Cultural Exchange
+    image: ./images/ComfyUI_temp_aglrt_00001_.png
+    details: Facilitate global designer interaction, enhancing design diversity and inclusivity.
+  - title: Integration of Technology and Design
+    image: ./images/image1.png
+    details: Utilize the latest technology to enhance design efficacy.
+  - title: Building an Open-Source Ecosystem
+    image: ./images/image18.png
+    details: Promote sharing, collaboration, and self-improvement for continuous industry growth.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/00052-3429002811.jpeg
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/_20240430170536.png
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/_20240430170728.png
+    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: Comprehensive Critical Thinking
+    image: ./images/_20240430170644.png
+    details: Assess design from multiple perspectives to improve quality and practicality.
+
+# footer: MIT Licensed | Copyright © 2024-present {{$site.title}}
+---
+
+
+

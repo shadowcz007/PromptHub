@@ -1,0 +1,28 @@
+{
+  "dest": "../docs",
+  "base": "/PromptHub",
+  "title": "Prompt案例库",
+  "description": "获取更多prompt灵感",
+  "keywords": "prompt, open source",
+  "author": "shadow",
+  "twitter@username": "mixlabPro",
+  "share_config": [
+    "hackernews",
+    "twitter"
+  ],
+  "hostname": "shadowcz007.github.io",
+  "GA4": "G-xxxx",
+  "category_title": "目录",
+  "googleAds": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxx",
+  "googleAdsenseAccount": "ca-pub-xxxxx",
+  "navbar": [
+    {
+      "text": "About",
+      "link": "/posts/about"
+    },
+    {
+      "text": "Discord",
+      "link": "https://discord.gg/cXs9vZSqeK"
+    }
+  ]
+}
