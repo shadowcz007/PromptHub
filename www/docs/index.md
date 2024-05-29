@@ -43,9 +43,10 @@ waterfall:
     details: Intimacy, genuine smiles, natural poses, unusual angles, washed colors, foreground blur, lens flares, earth tones, close-ups, natural lighting
     posts: knowledge\捕捉自然之美\index
 
-  - title: Comprehensive Critical Thinking
-    image: ./images/00052-3429002811.jpeg
-    details: Assess design from multiple perspectives to improve quality and practicality.
+  - title: 从霓虹到柔和鲜艳的色调
+    image: images/从霓虹到柔和鲜艳的色调.png
+    details: Vibrant neon colors including turquoise, pink, and orange. The palette is bold and eye-catching, with a mix of soft and vivid hues.
+    posts: knowledge\从霓虹到柔和鲜艳的色调\index
 
   - title: Transparency in Design
     image: ./images/00052-3429002811.jpeg
