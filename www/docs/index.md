@@ -48,6 +48,11 @@ waterfall:
     details: Vibrant neon colors including turquoise, pink, and orange. The palette is bold and eye-catching, with a mix of soft and vivid hues.
     posts: knowledge\从霓虹到柔和鲜艳的色调\index
 
+  - title: 极简与戏剧性的碰撞
+    image: images/极简与戏剧性的碰撞.png
+    details: Abstract Expressionism Art, {Mobius sculpture}, High contrast, minimalistic, colorful, stark, dramatic, expressionism
+    posts: knowledge\极简与戏剧性的碰撞\index
+
   - title: Transparency in Design
     image: ./images/00052-3429002811.jpeg
     details: Enhance transparency in design, allowing community-wide understanding and participation.
